@@ -1,2 +1,2 @@
-# DevanCakraMudraWijaya-IDB004-HeaterCoolerModule-HCM-IndobotAcademy
+# DevanCakraMudraWijaya-IDB004-HeaterCoolerModule-IndobotAcademy
 Final Project PCB Design Elective Class
