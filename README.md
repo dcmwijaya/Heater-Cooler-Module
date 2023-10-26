@@ -4,6 +4,6 @@
 ![PCB-Project](https://img.shields.io/badge/Project-Printed%20Circuit%20Board-light.svg?style=flat&logo=arduino&logoColor=white&color=008B8B)
 
 # Heater-Cooler-Module
-<strong>PCB Design Elective Class Final Project</strong><br>
+<strong>Elective Class Final Project: PCB Design</strong><br>
 
 In this PCB project, I created a simple IoT trainer design that includes the relationship between sensors and actuators. The assigned sensor is LM35, while the assigned actuator is Fan.
