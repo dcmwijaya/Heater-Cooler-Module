@@ -8,7 +8,12 @@
 
 In this PCB project, I created a simple IoT trainer design that includes the relationship between sensors and actuators. The assigned sensor is LM35, while the assigned actuator is Fan.
 
-<br/><br/>
+<br><br>
+
+## Appreciation
+If you find this work useful, please support it as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
+
+<br><br>
 
 ## LICENSE
 MIT License - Copyright © 2023 - Devan C. M. Wijaya, S.Kom
