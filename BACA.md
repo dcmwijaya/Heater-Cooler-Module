@@ -10,6 +10,11 @@ Dalam proyek PCB ini, saya membuat desain Trainer IoT sederhana yang mencakup hu
 
 <br><br>
 
+## Apresiasi
+Jika Anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulisnya dengan mengeklik tombol ``` ⭐Bintang ```.
+
+<br><br>
+
 ## LISENSI
 LISENSI MIT - Hak Cipta © 2023 - Devan C. M. Wijaya, S.Kom
 
