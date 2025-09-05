@@ -4,7 +4,7 @@
 ![PCB-Project](https://img.shields.io/badge/Project-Printed%20Circuit%20Board-light.svg?style=flat&logo=autodesk&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Course-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Heater-Cooler-Module
+# Heater-Cooler Module
 <strong>Tugas Akhir Kelas Pilihan: Desain PCB</strong><br>
 
 Dalam proyek PCB ini, saya membuat desain Trainer IoT sederhana yang mencakup hubungan antara sensor dan aktuator. Sensor yang ditetapkan adalah LM35, sedangkan aktuator yang ditetapkan adalah Fan.
